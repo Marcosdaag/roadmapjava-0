@@ -1,0 +1,6 @@
+Los arreglos son estructuras que pueden almacenar distintos datos que pueden ser del mismo tipo o no, dentro de estos arreglos estan los unidimensionales los cuales se almacenan uno al lado del otro, por otro lado estan los bidimiensionales que se guardan en un formato de cuadrilla tambien llamados "MATRICES"
+
+Vectores:
+Los vectores en si son una variable por lo que pueden almacenar datos del mismo tipo y ademas hay que asignarle cuantos datos va a almacernar y cada almacenamiento corresponde a un indice empezando desde el  0
+
+Recorrido y carga de vectores:

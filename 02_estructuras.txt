@@ -1,0 +1,20 @@
+Las estructuras dentro de la programacion sirven para tomar diferentes deciciones dependiendo de determinadas condiciones.
+
+Estructuras condicionales:
+Si (num1 > num2) => Escribir "es mayor"
+Si no => "es menor"
+
+Estrcuturas condicionales multiples:
+Num1 = 0;
+Si (Num1 == 0) => "el numero es 0"
+Si no => Si (Num1 > 10) "el numero es mayor a 10, Si no "el numero es menor a 10"
+
+Estructuras repetitivas:
+Se reptive una accion una cantidad x de veces hasta que se cumpla una condicion
+
+Estrucutra repetitiva mientras (while):
+Se repite una accion una cantidad x de veces MIENTRAS se cumpla una condicion
+
+Estructura repetitiva Do while y for
+For se ejectura una cantidad definida de veces hasta llegar al obejtivo
+Do while se ejecuta al menos una vez y mientras que no se cumpla una condicion se sigue ejecutando, la diferencia con el while es que este se ejecuta una primera vez de forma obligada

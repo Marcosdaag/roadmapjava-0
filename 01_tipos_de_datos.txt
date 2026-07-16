@@ -1,0 +1,29 @@
+Que son los datos? => es la unidad minima de informacion y no tienen un significado propio, en cambio un conjunto de datos si puede dar informacion "Marcos tiene 26 años".
+
+Tipos de datos:
+Entero = Numeros enteros sin coma
+Real = Numeros decimales con coma
+Logico = Verdadero o Falso
+Caracter = Letras/Caracteres
+
+Estos datos se almacenan en variables o constantes, las variables son como una caja que puede almacenar un tipo de dato y es posible que el mismo sea modificado durante la ejecucion del progrma, mientras que las constantes tambien funcionan como cajas pero su valor no puede ser modificado.
+
+Todas las variables pueden recibir un solo tipo de datos, su valor inicial es desconocido y ocupa una posicion en memoria.
+
+Reglas para la nomenclatura de las variables:
+Tiene que tener un nombre representativo
+Tiene que comenzar con letras
+No pueden tener espacios
+No pueden tener simbolos o acentos
+Puede utilizar guin bajo para simular espacios
+No puede ser llamada como palabras reservadas
+
+Para declarar una variable hay que especificar si tipo de dato + nombre:
+Entero edad;
+
+Las variables pueden ser ser leidas y escritas
+
+Operaciones entre variables:
+Aritmeticas: +, -,  *, /, ^, div(divisiones enteras), mod o %(para resto de divisiones)
+Relacionales: <, >, <=, >=. !, ==
+Logicos: Not, And, Or = !=, &&, |

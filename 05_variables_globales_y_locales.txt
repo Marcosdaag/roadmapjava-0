@@ -1,0 +1,2 @@
+Variables locales: existen dentro de la funcion o procedimiento donde se crean.
+Variables globales: existen en fichero completo, de esta manera se puede utilizar en cualquier funcion o prodecimiento declarado como tambien puede ser exportada para ser utilizada por otros ficheros.

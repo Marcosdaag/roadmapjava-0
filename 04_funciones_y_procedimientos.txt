@@ -1,0 +1,3 @@
+Las funciones son bloques de codigos que se ejecutan en el momento que se necesite
+
+Los procedimientos pueden o no devolver una respuesta
